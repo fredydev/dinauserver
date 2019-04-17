@@ -1,0 +1,24 @@
+{
+  "name": "dinauserver",
+  "version": "1.0.0",
+  "description": "dinau server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredydev/dinauserver.git"
+  },
+  "author": "fredydev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredydev/dinauserver/issues"
+  },
+  "homepage": "https://github.com/fredydev/dinauserver#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  }
+}
